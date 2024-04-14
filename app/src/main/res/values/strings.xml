@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GH Users</string>
+    <string name="error_users_list_title">Erro ao buscar usuários</string>
+    <string name="error_users_list_subtitle">Ocorreu um erro ao tentar buscar os usuários. Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="empty_repository_title">Sem Repositórios Encontrados</string>
+    <string name="empty_repository_subtitle">Não encontramos nenhum repositório para este usuário. Talvez ele ainda esteja trabalhando em seu portfólio digital!</string>
+    <string name="repositories">Repositórios</string>
+    <string name="search_user">Informe o nome do usuário desejado</string>
+    <string name="following_count">%s seguindo</string>
+    <string name="retry">Tentar Novamente</string>
+
+
+    <plurals name="followers_count">
+        <item quantity="one">%d seguindo</item>
+        <item quantity="other">%d seguidores</item>
+    </plurals>
+</resources>
+
